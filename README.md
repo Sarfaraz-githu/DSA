@@ -1,2 +1,3 @@
 # DSA
-DSA - SARFRAZ
+DSA - SARFARAZ
+Author - sarfaraz
